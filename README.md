@@ -70,7 +70,7 @@ model → Representação das entidades
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/Michellesilvaa00/springboot-user-crud-api.git
 ```
 
 ### 2️⃣ Acessar a pasta
